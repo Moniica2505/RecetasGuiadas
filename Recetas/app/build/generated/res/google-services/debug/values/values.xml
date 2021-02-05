@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">692979996278-up4ehqkehb9dbdlgpf4kr159h7hs3q2c.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://recetas-44f0e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">692979996278</string>
+    <string name="google_api_key" translatable="false">AIzaSyBD5mA-j_YBdiV8_XGfyWh-vorV9s481tc</string>
+    <string name="google_app_id" translatable="false">1:692979996278:android:270266f41c3984e8033157</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBD5mA-j_YBdiV8_XGfyWh-vorV9s481tc</string>
+    <string name="google_storage_bucket" translatable="false">recetas-44f0e.appspot.com</string>
+    <string name="project_id" translatable="false">recetas-44f0e</string>
+</resources>
