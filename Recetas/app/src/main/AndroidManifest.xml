@@ -1,1 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.recetas">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <activity android:name=".GuiadaHCocidos2"></activity>
+        <activity android:name=".GuiadaHCocidos1" />
+        <activity android:name=".HuevosCocidos" />
+        <activity android:name=".GuiadaHNormalCuatro" />
+        <activity android:name=".GuiadaHNormalTres" />
+        <activity android:name=".GuiadaHNormalDos" />
+        <activity android:name=".GuiadaHNormalUno" />
+        <activity android:name=".HamburguesaNormal" />
+        <activity android:name=".GuiadaArrozcuCuatro" />
+        <activity android:name=".GuiadaArrozcuTres" />
+        <activity android:name=".GuiadaArrozcuDos" />
+        <activity android:name=".GuiadaArrozcuUno" />
+        <activity android:name=".ArrozCubana" />
+        <activity android:name=".PechugaPlancha" />
+        <activity android:name=".Guiada_pplancha" />
+        <activity android:name=".Verduras" />
+        <activity android:name=".Pescados" />
+        <activity android:name=".Huevos" />
+        <activity android:name=".Hamburguesas" />
+        <activity android:name=".Aves" />
+        <activity android:name=".ArrocesPastas" />
+        <activity android:name=".GuiadaPuerroCuatro" />
+        <activity android:name=".GuiadaPuerroTres" />
+        <activity android:name=".GuiadaPuerroDos" />
+        <activity android:name=".CremaDePuerro" />
+        <activity android:name=".GuiadaPuerroUno" />
+        <activity android:name=".registrarse" />
+        <activity android:name=".GuiadaTortillaSiete" />
+        <activity android:name=".GuiadaTortillaSeis" />
+        <activity android:name=".GuiadaTortillaTrucos" />
+        <activity android:name=".GuiadaTortillaCinco" />
+        <activity android:name=".GuiadaTortillaCuatro" />
+        <activity android:name=".GuiadaTortillaTres" />
+        <activity android:name=".GuiadaTortillaDos" />
+        <activity android:name=".GuiadaTortillaUno" />
+        <activity android:name=".TortillaDePatatas" />
+        <activity android:name=".Principal" />
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
